@@ -14,3 +14,4 @@ Linee guida codice:
 LINEE GUIDA GIT (IMPORTANTE):
 - NON si pusha direttamente su `master`, avremo un ramo `dev` dove pubblicare i cambiamenti non finalizzati
 - Quando si implementa una feature, creiamo un ramo apposito col nome `WIP-<feature>` (senza `<>`)
+- Quando una feature è pronta, create una pull request per unirla al ramo `dev`
